@@ -1,5 +1,5 @@
 Hola soy Cesar Augusto Calad Hernandez, tengo 19 años.
 
-Es la primera vez que voy a utilizar GIT :)
+Es la segunda vez que voy a utilizar GIT :)
 
-Espero que todo salga bien
+Todo salio bien.
