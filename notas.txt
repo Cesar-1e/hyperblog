@@ -1,5 +1,7 @@
 Hola soy Cesar Augusto Calad Hernandez, tengo 19 años.
 
+Hola soy Anita tiene 41 años y nació en Colombia 
+
 Es la segunda vez que voy a utilizar GIT :)
 
 Mañana nos enfocarmos en su vida laboral
