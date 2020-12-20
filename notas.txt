@@ -1,6 +1,6 @@
 Hola soy Cesar Augusto Calad Hernandez, tengo 19 años.
 
-Hola soy Anita tiene 41 años y nació en Colombia 
+Hola soy Anita es una persona que contribuye a este proyecto Ope Source y nació en Colombia 
 
 Es la segunda vez que voy a utilizar GIT :)
 
