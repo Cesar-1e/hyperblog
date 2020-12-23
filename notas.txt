@@ -4,6 +4,8 @@ Hola soy Anita es una persona que contribuye a este proyecto Ope Source y nació
 
 Main 1
 
+Main 2
+
 Es la segunda vez que voy a utilizar GIT :)
 
 Mañana nos enfocarmos en su vida laboral
